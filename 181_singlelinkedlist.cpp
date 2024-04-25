@@ -102,7 +102,7 @@ void traverse() {
     }
 }
 
-void searchData() {
+void searchData() { 
     if (listEmpty()) {
         cout << "List Kosong" << endl;
         system("pause");
